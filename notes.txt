@@ -1,4 +1,4 @@
 commit1
-commit2
 commit3
 
+>>>>>>> parent of a2d3725 (commit2)
